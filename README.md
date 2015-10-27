@@ -1,8 +1,7 @@
-# PythonLearning
-Voy a reprobar este semestre porque no se programar en Python. Cualquier ayuda se acepta.
+# PythonProgramming
+Estimados alumnos este repositorio es parte del curso de computacion I, cualqueir comentario se acepta
 
 
-## Aprendizaje de Python desde 0.
-Lo unico que se es que para hacer un archivo para abrir en Python es ponerle un .py al final.
-## Hola Mundo
-Viva la vida.
+## Ejemplos de Programación en Python
+El archivo file.py es un ejemplo de como abrir un documento en python
+HolaMundo
